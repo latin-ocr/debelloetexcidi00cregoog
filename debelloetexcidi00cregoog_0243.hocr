@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./debelloetexcidi00cregoog_0243.png"; bbox 0 0 4207 5340; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 232 1391 3927 1809">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 91 1391 3927 1921">
+     <span class='ocr_line' id='line_1_1' title="bbox 232 1391 3927 1809; baseline 0.007 -41.081"><span class='ocrx_word' id='word_1_1' title='bbox 232 1400 251 1409; x_wconf 65' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 406 1436 1951 1807; x_wconf 73' lang='lat' dir='ltr'>&#39;DARETIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 2167 1391 3632 1809; x_wconf 24' lang='lat' dir='ltr'>PHRYGII&#39;</span> <span class='ocrx_word' id='word_1_4' title='bbox 3831 1506 3927 1792; x_wconf 84' lang='grc' dir='ltr'>ᾗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 742 2200 3164 2726">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 742 2200 3164 2726">
+     <span class='ocr_line' id='line_1_2' title="bbox 742 2200 3164 2449; baseline -0.002 -65"><span class='ocrx_word' id='word_1_5' title='bbox 742 2422 753 2429; x_wconf 37' lang='grc'>,</span> <span class='ocrx_word' id='word_1_6' title='bbox 908 2208 2071 2389; x_wconf 71' lang='grc' dir='ltr'>ΕΧΟΙΒΙΟ-</span> <span class='ocrx_word' id='word_1_7' title='bbox 2219 2200 3164 2449; x_wconf 77' lang='lat' dir='ltr'>TROJAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1273 2544 2751 2726; baseline 0.003 -35"><span class='ocrx_word' id='word_1_8' title='bbox 1273 2544 2751 2726; x_wconf 51' lang='lat' dir='ltr'>HISTORLA</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
